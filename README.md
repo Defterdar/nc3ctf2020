@@ -7,7 +7,7 @@ consisting of 20 challenges across 3 catogories (Beginner, novice and hard), and
 
 ## Begynder
 
-#### Introduktion til CTF _(100 points)_
+#### Introduktion til CTF ######_(100 points)_
 
 We are given the following string.
 
@@ -27,7 +27,7 @@ nc3{JiM2ODsmIzgyOyYjNzM7JiM3NjsmIzc2OyYjNjk7JiM3ODsmIzczOyYjODM7JiM4MzsmIzY5OyYj
 
 -------
 
-### Hallo, hallo, er der nogen? _(100 points)_
+#### Hallo, hallo, er der nogen? _(100 points)_
 
 ```
 nc3{. -. -.. . .-.. .. --. ..--.- .--- ..- .-.. ..--- ----- ..--- -----}
@@ -35,7 +35,7 @@ nc3{. -. -.. . .-.. .. --. ..--.- .--- ..- .-.. ..--- ----- ..--- -----}
 
 -------
 
-### Rosettestenen _(100 points)_
+#### Rosettestenen _(100 points)_
 
 ```neque eleifend In non aliquet nec Quisque auctor neqte id risus vel```
 
@@ -47,7 +47,7 @@ nc3{. -. -.. . .-.. .. --. ..--.- .--- ..- .-.. ..--- ----- ..--- -----}
 
 -------
 
-### Julegåden 0 _(100 points)_
+#### Julegåden 0 _(100 points)_
 
 The first task in Julegåden is to find the password from the following string:
 > Koden er: ‮2020‭Nisse‮jul‭Bar‮eDen‭bedste
@@ -61,7 +61,7 @@ Highlighting the string results in the cursor jumping to the end of the string a
 
 ## Øvet
 
-### Befibbet _(200 points)_
+#### Befibbet _(200 points)_
 
 ```
 0x6e, 0x62, 0x32, 0x79, 0x61, 0x60, 0x6e, 0x64, 0x65, 0x52, 0x52, 0x2d, 0xcf, 0x85, 0x11c, 0x20d, 0x3b5, 0x65c, 0xa6a, 0x1031, 0x1a02, 0x2a9d, 0x4543, 0x6f94, 0xb544, 0x12574, 0x1da43, 0x2ff1d, 0x4d916, 0x7d8d3, 0xcb25c, 0x148ab8, 0x213d77, 0x35c7bd, 0x570480, 0x8ccca8, 0xe3d1c6, 0x1709e1c, 0x254705b, 0x3c50efd, 0x6197ea2, 0x9de8d32, 0xff80c4c, 0x19d699c4, 0x29cea5b1, 0x43a53fee, 0x6d73e53a, 0xb119248f, 0x11e8d0a25, 0x1cfa62f7e, 0x2ee33393e, 0x4bdd968e4, 0x7ac0ca186, 0xc69e60a01, 0x1415f2ac3c, 0x207fd8b6f2, 0x3495cb6291, 0x5515a419d7, 0x89ab6f7cc8, 0xdec113965f, 0x1686c8312b1, 0x2472d96a967, 0x3af9a19bbbd, 0x5f6c7b06496, 0x9a661ca20e4, 0xf9d297a85f9, 0x19438b44a63d, 0x28e0b4bf2b9b, 0x42244003d223, 0x6b04f4c2fe27, 0xad2934c6d0d0, 0x1182e2989ceb4, 0x1c5575e509f0e, 0x2dd8587da6e54, 0x4a2dce62b0dec
@@ -70,7 +70,7 @@ Highlighting the string results in the cursor jumping to the end of the string a
 
 -------
 
-### Kludetæppet _(200 points)_
+#### Kludetæppet _(200 points)_
 
 ```
 ting = ["nc3", "gjort", "{", "specielt", "}", "_", "selv", "vel", "jule", "er", "med", "gaver", "guld"]
@@ -87,7 +87,7 @@ print kludeTaeppe
 
 -------
 
-### Lorem Ipsum _(200 points)_
+#### Lorem Ipsum _(200 points)_
 
 ```
 Lorem ipsum dolor sit amet, con{ectetur adipiscing elit. Duis gravida, ante ut feugiat faucibus, dolor nunc pharetra quam, ut placerat} lectus arcu nec tortor. Integer commodo justo id orci convallis, lacinia luctus erat imperdiet. Sed fermentum mattis congue. Proin gravida eros purus. Praesent
@@ -110,7 +110,7 @@ dunt felis f}nibus posuere. Phasellus semper digniss}m ante, at tristique sapien
 
 -------
 
-### Nisse Omvendt _(200 points)_
+#### Nisse Omvendt _(200 points)_
 
 Kodet_besked.bin:
 > 8F 57 F0 B7 A2 9D AC AD AE 9B 93 98 98 93 95 96
@@ -151,20 +151,16 @@ $$2133248hfdsfBIIIIPP!!!123213123dddddCRASH!
 ```
 
 
+-------
+
+#### B2R - Lillenisse _(200 points)_
 
 -------
 
-### B2R - Lillenisse
-``` (200 points) ```
+#### B2R - Mellemnisse _(200 points)_
 
 -------
 
-### B2R - Mellemnisse
-``` (200 points) ```
-
--------
-
-### Julegåden 1
-``` (200 points) ```
+#### Julegåden 1 _(200 points)_
 
 -------
