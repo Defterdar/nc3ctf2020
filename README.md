@@ -1,7 +1,7 @@
 # nc3ctf2020-Writeup
 _Will be published post 17th December_
 
-This year I, and the rest of the TTF tesm, participated in the Danish National Cyber Crime Center (NC3)'s annual captura-the-flag event,
+This year I, and the rest of the TTF team, participated in the Danish National Cyber Crime Center (NC3)'s annual captura-the-flag event,
 consisting of 20 challenges across 3 catogories (Beginner, novice and hard), and lasted from November 26. 10 AM to December 17. 10 AM.
 
 
