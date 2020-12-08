@@ -1,5 +1,5 @@
 # Begynder
--------
+
 * Introduktion til CTF
 ``` (100 points) ```
 
