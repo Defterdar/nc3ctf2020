@@ -169,4 +169,6 @@ All B2R challenges are held at [Tryhackme.com](https://tryhackme.com/jr/nc3ctf20
 
 #### Julegåden 1 _(200 points)_
 
+A broken .PNG file which holds the secret ingrediense for the fantastic beverage Nisseladedrik.
+![Alt Nisseladedrik](https://i.imgur.com/IfvyNo0.png)  
 -------
