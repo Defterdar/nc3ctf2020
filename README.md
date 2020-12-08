@@ -16,39 +16,61 @@ Simply parse it through `****` to reveal the flag
 
 -------
 
-* Besked fra fronten
+### Besked fra fronten
 ``` (100 points) ```
 
-* Hallo, hallo, er der nogen?
-``` (100 points) ```
-
-* Rosettestenen
-``` (100 points) ```
-
-* Julegåden 0
-``` (100 points) ```
-
-
-
-[Øvet](øvet.md)
 -------
-* Befibbet
+
+### Hallo, hallo, er der nogen?
+``` (100 points) ```
+
+-------
+
+### Rosettestenen
+``` (100 points) ```
+
+-------
+
+### Julegåden 0
+``` (100 points) ```
+
+-------
+
+
+
+## Øvet
+
+### Befibbet
 ``` (200 points) ```
 
-* Kludetæppet
+-------
+
+### Kludetæppet
 ``` (200 points) ```
 
-* Lorem Ipsum
+-------
+
+### Lorem Ipsum
 ``` (200 points) ```
 
-* Nisse Omvendt
+-------
+
+### Nisse Omvendt
 ``` (200 points) ```
 
-* B2R - Lillenisse
+-------
+
+### B2R - Lillenisse
 ``` (200 points) ```
 
-* B2R - Mellemnisse
+-------
+
+### B2R - Mellemnisse
 ``` (200 points) ```
 
-* Julegåden 1
+-------
+
+### Julegåden 1
 ``` (200 points) ```
+
+-------
