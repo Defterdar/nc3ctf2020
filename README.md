@@ -173,3 +173,9 @@ A broken PNG file which holds the secret ingrediense for the fantastic beverage 
 ![Alt Nisseladedrik](https://i.imgur.com/IfvyNo0.png)  
 
 -------
+
+#### Dllosaurus _(200 points)_  
+
+Text coming  
+
+-------
