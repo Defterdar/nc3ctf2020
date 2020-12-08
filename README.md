@@ -4,8 +4,7 @@ Writeups of this year CTF from Politiets NC3 department -- Will be published the
 
 ## Begynder
 
-#### Introduktion til CTF
-``` (100 points) ```
+#### Introduktion til CTF``` (100 points) ```
 
 We are given the following string.
 
