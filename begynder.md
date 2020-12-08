@@ -4,11 +4,11 @@
 
 From the txt file we get the following string.
 
-'mb3{hmfdm_ahrrdq_jtm_rmd_nf_mhrrdq}'
+´mb3{hmfdm_ahrrdq_jtm_rmd_nf_mhrrdq}´
 
 Simply parse it through '****' to reveal the flag
 
-'***********************************'
+´***********************************´
 
 
 * Besked fra fronten
