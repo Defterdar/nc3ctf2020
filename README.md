@@ -2,7 +2,7 @@
 _Will be published post 17th December_
 
 This year I, and the rest of the TTF team, participated in the Danish National Cyber Crime Center (NC3)'s annual capture-the-flag event,
-consisting of 20 challenges across 3 catogories (Beginner, novice and hard), and lasted from November 26. 10 AM to December 17. 10 AM.
+consisting of 20 challenges across 3 categories (Beginner, novice and hard), and lasted from November 26. 10 AM to December 17. 10 AM.
 
 
 ## Begynder
@@ -36,9 +36,10 @@ nc3{. -. -.. . .-.. .. --. ..--.- .--- ..- .-.. ..--- ----- ..--- -----}
 -------
 
 #### Rosettestenen _(100 points)_
-
+> Vi har her et gammelt, ukendt og meget mystisk ordsprog:  
 ```neque eleifend In non aliquet nec Quisque auctor neqte id risus vel```
-
+> Men vi har været så heldige at finde en Rosettesten, der måske kan bruges til at afkode mystikken. Vi tænker at resultatet skal afleveres uden mellemrum.  
+Rosettesten viste:  
 ```Quisque vel risus non neque aliquet auctor nec id neqte In eleifend```
 
 ```gammel } flasker er nc3 sådan vand set nye i det {```
