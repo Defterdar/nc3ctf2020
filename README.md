@@ -27,7 +27,9 @@ nc3{JiM2ODsmIzgyOyYjNzM7JiM3NjsmIzc2OyYjNjk7JiM3ODsmIzczOyYjODM7JiM4MzsmIzY5OyYj
 ### Hallo, hallo, er der nogen? _(100 points)_
 
 ```
-nc3{. -. -.. . .-.. .. --. ..--.- .--- ..- .-.. ..--- ----- ..--- -----}```
+nc3{. -. -.. . .-.. .. --. ..--.- .--- ..- .-.. ..--- ----- ..--- -----}
+```
+
 -------
 
 ### Rosettestenen _(100 points)_
