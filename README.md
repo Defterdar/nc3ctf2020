@@ -55,7 +55,7 @@ Rosettesten viste:
 The first task in Julegåden is to find the password from the following string:
 > Koden er: ‮2020‭Nisse‮jul‭Bar‮eDen‭bedste
 
-Highlighting the string results in the cursor jumping back and forth.
+Highlighting the string results in the cursor jumping back and forth.  
 ![Alt kode](https://i.imgur.com/dNBC8Ae.png)
 
 -------
