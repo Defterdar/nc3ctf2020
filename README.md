@@ -1,9 +1,10 @@
 # nc3ctf2020-Writeups
 Writeups of this year CTF from Politiets NC3 department -- Will be published the 17th December
 
+
 ## Begynder
 
-### Introduktion til CTF
+##### Introduktion til CTF
 ``` (100 points) ```
 
 We are given the following string.
@@ -16,7 +17,7 @@ Simply parse it through `****` to reveal the flag
 
 -------
 
-### Besked fra fronten
+##### Besked fra fronten
 ``` (100 points) ```
 
 -------
