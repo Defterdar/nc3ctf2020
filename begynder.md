@@ -2,9 +2,12 @@
 
 * Introduktion til CTF
 
-From the txt file we get the following string. 
+From the txt file we get the following string.
+
 'mb3{hmfdm_ahrrdq_jtm_rmd_nf_mhrrdq}'
+
 Simply parse it through '****' to reveal the flag
+
 '***********************************'
 
 
