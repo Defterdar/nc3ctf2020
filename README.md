@@ -24,13 +24,21 @@ nc3{JiM2ODsmIzgyOyYjNzM7JiM3NjsmIzc2OyYjNjk7JiM3ODsmIzczOyYjODM7JiM4MzsmIzY5OyYj
 
 -------
 
-### Hallo, hallo, er der nogen?
-``` (100 points) ```
+### Hallo, hallo, er der nogen? _(100 points)_
 
+```
+nc3{. -. -.. . .-.. .. --. ..--.- .--- ..- .-.. ..--- ----- ..--- -----}```
 -------
 
-### Rosettestenen
-``` (100 points) ```
+### Rosettestenen _(100 points)_
+
+```neque eleifend In non aliquet nec Quisque auctor neqte id risus vel```
+
+```Quisque vel risus non neque aliquet auctor nec id neqte In eleifend```
+
+```gammel } flasker er nc3 sådan vand set nye i det {```
+
+
 
 -------
 
