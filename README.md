@@ -44,8 +44,13 @@ nc3{. -. -.. . .-.. .. --. ..--.- .--- ..- .-.. ..--- ----- ..--- -----}
 
 -------
 
-### Julegåden 0
-``` (100 points) ```
+### Julegåden 0 _(100 points)_
+
+The first task in Julegåden is to find the password from the following string:
+> Koden er: ‮2020‭Nisse‮jul‭Bar‮eDen‭bedste
+
+Highlighting the string results in the cursor jumping to the end of the string and back to the beginning.
+![Alt kode](https://i.imgur.com/dNBC8Ae.png)
 
 -------
 
