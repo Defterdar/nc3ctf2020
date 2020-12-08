@@ -13,6 +13,7 @@ We are given the following string.
 Simply parse it through `****` to reveal the flag
 
 `***********************************`
+
 -------
 
 * Besked fra fronten
