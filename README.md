@@ -1,7 +1,7 @@
 # nc3ctf2020-Writeups
 Writeups of this year CTF from Politiets NC3 department -- Will be published the 17th December
 
-Begynder
+[Begynder](begynder.md)
 -------
 * Introduktion til CTF
 ``` (100 points) ```
