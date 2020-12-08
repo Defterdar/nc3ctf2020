@@ -20,7 +20,7 @@ Writeups of this year CTF from Politiets NC3 department -- Will be published the
 
 
 
-Øvet
+[Øvet](øvet.md)
 -------
 * Befibbet
 ``` (200 points) ```
