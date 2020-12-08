@@ -153,6 +153,8 @@ $$2133248hfdsfBIIIIPP!!!123213123dddddCRASH!
 
 #### B2R - Lillenisse _(200 points)_
 
+All B2R challenges are held at [Tryhackme.com](https://tryhackme.com/jr/nc3ctf2020nisseonskelisten)
+
 -------
 
 #### B2R - Mellemnisse _(200 points)_
