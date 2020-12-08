@@ -112,8 +112,11 @@ dunt felis f}nibus posuere. Phasellus semper digniss}m ante, at tristique sapien
 
 Kodet_besked.bin:
 > 8F 57 F0 B7 A2 9D AC AD AE 9B 93 98 98 93 95 96
+
 > A3 A0 9D 9E AB AE AF A8 9C AC A5 AF B3 AF C7 BC
+
 > A7 B2 B5 B3 AA A5 B3 B8 BE CA C3 C8 CB BF D0 DA
+
 
 nisse_omvendt.py:
 ```
@@ -158,6 +161,8 @@ All B2R challenges are held at [Tryhackme.com](https://tryhackme.com/jr/nc3ctf20
 -------
 
 #### B2R - Mellemnisse _(200 points)_
+
+All B2R challenges are held at [Tryhackme.com](https://tryhackme.com/jr/nc3ctf2020nisseonskelisten)
 
 -------
 
